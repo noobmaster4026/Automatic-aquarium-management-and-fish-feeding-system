@@ -87,7 +87,3 @@ All sensor readings print to the Serial Monitor at 9600 baud.
 
 - Water level sensor, peristaltic pump, air pump, and solenoid valves were left out of this build due to budget constraints.
 - The pH sensor consistently reported a narrow 3–4 pH range regardless of the actual liquid tested; this was traced to the sensor module itself and could not be resolved within the project's budget.
-
-## Team
-
-Built by a 5-person group for CSE461 (Spring 2025), covering sensor integration, actuator wiring, circuit debugging, and system testing.
